@@ -1,3 +1,5 @@
+// linkedlist.go implements a concurrency safe doubly linked list in go.
+
 package main
 
 import (
