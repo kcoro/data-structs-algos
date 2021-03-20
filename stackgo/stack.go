@@ -3,7 +3,7 @@
 // We can use this orthogonal design and specify a stack that accepts an empty interface type.
 // Go will perform type assertion on the actual underlying types.
 
-package main
+package stack
 
 import (
 	"fmt"
